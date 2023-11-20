@@ -1,5 +1,11 @@
 #include "sort.h"
 
+/**
+ * bubble_sort - sorting an array in ascinding order
+ * 
+ * @array: array of ints
+ * @size: size of the array
+*/
 void bubble_sort(int *array, size_t size) {
 
 
